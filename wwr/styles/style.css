@@ -217,7 +217,94 @@ h2 {
 
     /* This is the start of my styles for my subpage */
 
-    
+    sh2 {
+        font-family: 'Rowdies', cursive;
+        margin: 0;
+        text-align: center;
+        color: #0C0A3E;
+        font-size: xx-large;
+        padding: 190px;
+    }
+    sp {
+        font-family: 'Unbounded', 'Rowdies', cursive;
+        margin: 0;
+        color: #0C0A3E;
+        font-size: x-large;
+        text-align: center;
+    }
+    sp2 {
+        font-family: 'Unbounded', 'Rowdies', cursive;
+        margin: 0;
+        color: #0C0A3E;
+        font-size: large;
+        text-align: center;
+    }
+    sp3 {
+        font-family: 'Unbounded', 'Rowdies', cursive;
+        margin: 0;
+        color: #0C0A3E;
+        font-size: large;
+        text-align: center;
+    }
+    #banner {
+        display: grid;
+        grid-template-columns: 1fr 3fr 1fr;
+        margin-top: -100px;
+    }
+    #banner-box {
+        grid-column: 1/4;
+        grid-row: 1/3;
+        z-index: -1;
+    }
+    #banner-msg {
+        grid-column: 2/3;
+        grid-row: 1/2;
+        margin-top: 100px;
+        font-family: 'Rowdies', cursive;
+        font-size: xx-large;
+        color: #edf6f9;
+        text-align: center;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    #banner-img {
+        width: 100%;
+    }
+    .bookbutton {
+        font-family: 'Unbounded', 'Rowdies', cursive;
+        text-align: center;
+        color:#B5D174;
+    }
+    .ratesanddates-grid {
+        display: grid;
+        column-gap: 200px;
+        row-gap: 50px;
+        padding: 1em 2em;
+    }
+    .grand1-img {
+       float: right;
+       width: 35%;
+       border: 5px solid #0C0A3E;
+       margin-left: 50px;
+    }
+    .grand2-img {
+        float: left;
+        border: 5px solid #0C0A3E;
+        margin-right: 50px;
+        width: 40%;
+    }
+    .salmon-img {
+        float: right;
+        width: 40%;
+       border: 5px solid #0C0A3E;
+       margin-left: 50px;
+    }
+    .desolation-img {
+        float: left;
+        border: 5px solid #0C0A3E;
+        margin-right: 50px;
+        width: 45%;
+    }
 
     @media screen and (max-width: 900px) {
         #hero, .home-grid {
