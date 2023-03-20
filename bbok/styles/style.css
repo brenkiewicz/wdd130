@@ -126,8 +126,6 @@ nav {
         font-size: 30px;
         color: #d19504;
         font-weight: bold;
-        -webkit-text-stroke-color: white;
-        -webkit-text-stroke-width: .3px;
     }
     .br-msg {
         font-family: 'Noto Sans JP', sans-serif;
@@ -142,8 +140,6 @@ nav {
         font-size: 30px;
         color: #d19504;
         font-weight: bold;
-        -webkit-text-stroke-color: white;
-        -webkit-text-stroke-width: .3px;
     }
     .fp-msg {
         font-family: 'Noto Sans JP', sans-serif;
