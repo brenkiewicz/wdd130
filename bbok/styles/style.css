@@ -121,7 +121,7 @@ nav {
         margin-left: 800px;
         margin-right: 50px;
     }
-    hh2 {
+    h2 {
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 30px;
         color: #d19504;
@@ -137,7 +137,7 @@ nav {
         margin-right: 150px;
         margin-top: -535px;
     }
-    hh3 {
+    h3 {
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 30px;
         color: #d19504;
@@ -159,13 +159,13 @@ nav {
         margin-right: 50px;
         margin-top: 400px;
     }
-    hh4 {
+    h4 {
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 2em;
         color: #d19504;
         margin-top: 100px;
     }
-    hp7 {
+    p7 {
         font-family: 'Mukta', sans-serif;
         font-size: 1em;
         color: black;
