@@ -13,7 +13,7 @@ nav {
     justify-content: space-around;
     }
     nav a {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         text-align: center; 
         font-size: 30px;
         color: black;
@@ -44,11 +44,11 @@ nav {
         align-items: center;
     }
     footer p {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         color: black;
     }
     footer a {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         color: #e83f6f;
         text-decoration: none;
     }
@@ -56,14 +56,11 @@ nav {
         color: #d19504;
     }
     footer p a:hover {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         text-decoration: underline;
     }
-    .social {
-        border: 3px solid #e83f6f;
-    }
     .home-title {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         font-size: 2em;
         color: #d19504;
         margin-top: 100px;
@@ -72,8 +69,8 @@ nav {
     #background1 {
         height: 450px;
         background-color: #01a7c2;
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
         padding: 35px;
         margin-top: 50px;
         margin-bottom: 25px;
@@ -81,8 +78,8 @@ nav {
     #background2 {
         height: 450px;
         background-color: #01a7c2;
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
         padding: 35px;
         margin-top: 400px;
         margin-bottom: 25px;
@@ -94,7 +91,7 @@ nav {
         width: 30%;
     }
     #cancel-msg hh1 {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         text-align: center; 
     }
     body {
@@ -105,7 +102,7 @@ nav {
         padding: 0;
     }
     .bb-info {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         font-size: 1em;
         color: black;
         margin-left: 50px;
@@ -121,11 +118,11 @@ nav {
         width: 40%;
         box-shadow: 5px 5px 10px #6f7364;
         margin-top: -800px;
-        margin-left: 750px;
+        margin-left: 800px;
         margin-right: 50px;
     }
     hh2 {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         font-size: 30px;
         color: #d19504;
         font-weight: bold;
@@ -133,15 +130,15 @@ nav {
         -webkit-text-stroke-width: .3px;
     }
     .br-msg {
-        font-family: Noto Sans Japanese, bold 700;
-        font-size: 1em;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 20px;
         color: black;
         margin-left: 800px;
         margin-right: 150px;
-        margin-top: -500px;
+        margin-top: -535px;
     }
     hh3 {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         font-size: 30px;
         color: #d19504;
         font-weight: bold;
@@ -149,27 +146,27 @@ nav {
         -webkit-text-stroke-width: .3px;
     }
     .fp-msg {
-        font-family: Noto Sans Japanese, bold 700;
-        font-size: 1em;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 20px;
         color: black;
         margin-left: 150px;
         margin-right: 800px;
-        margin-top: -500px;
+        margin-top: -520px;
     }
     .moreinfo {
-        font-family: Mukta, regular 400;
+        font-family: 'Mukta', sans-serif;
         margin-left: 50px;
         margin-right: 50px;
         margin-top: 400px;
     }
     hh4 {
-        font-family: Noto Sans Japanese, bold 700;
+        font-family: 'Noto Sans JP', sans-serif;
         font-size: 2em;
         color: #d19504;
         margin-top: 100px;
     }
     hp7 {
-        font-family: Mukta, regular 400;
+        font-family: 'Mukta', sans-serif;
         font-size: 1em;
         color: black;
     }
@@ -178,3 +175,4 @@ nav {
         border: 1px solid transparent;
         height: 0px;
     }
+
