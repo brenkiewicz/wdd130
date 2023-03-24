@@ -207,4 +207,40 @@ nav {
         text-align: center;
         margin-top: -5px;
     }
-
+    .okschools-msg {
+        font-family: 'Mukta', sans-serif;
+        column-count: 2;
+    }
+    #background3 {
+        height: 450px;
+        background-color: #01a7c2;
+        margin-left: 50px;
+        margin-right: 50px;
+        padding: 35px;
+        margin-top: 50px;
+        margin-bottom: 25px;
+    }
+    .ebook {
+        width: 40%;
+        box-shadow: 5px 5px 10px #6f7364;
+        margin-top: -750px;
+        margin-left: 100px;
+    }
+    .ebook-msg {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 20px;
+        color: black;
+        margin-left: 800px;
+        margin-right: 150px;
+        margin-top: -535px;
+    }
+    .morebooks {
+        font-family: 'Mukta', sans-serif;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 300px;
+    }
+    h7 {
+        font-size: 30px;
+        font-family: 'Noto Sans JP', sans-serif;
+    }
