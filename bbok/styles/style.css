@@ -172,3 +172,39 @@ nav {
         height: 0px;
     }
 
+    /* This is the start of my styles for subpage 1.*/
+
+    #skyline {
+        display: grid;
+        grid-template-columns: 1fr 3fr 1fr;
+        margin-top: -100px;
+    }
+    #skyline-box {
+        grid-column: 1/4;
+        grid-row: 1/3;
+        z-index: -1;
+    }
+    #skyline-msg {
+        grid-column: 2/3;
+        grid-row: 1/2;
+        margin-top: 100px;
+    }
+    #skyline-msg h5 {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 2em;
+        color: #d19504;
+        font-weight: bold;
+        text-align: center;
+        margin-top: -10px;
+    }
+    #skyline-img {
+        width: 100%;
+    }
+    h6 {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 40px;
+        color: #d19504;
+        text-align: center;
+        margin-top: -5px;
+    }
+
