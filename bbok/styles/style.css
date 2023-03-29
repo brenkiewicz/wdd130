@@ -179,6 +179,11 @@ nav {
         margin: 0 auto;
     }
 
+    div.content{
+        max-width: 1600px;
+        margin: 0 auto;
+    }
+
     #skyline {
         display: grid;
         grid-template-columns: 1fr 3fr 1fr;
@@ -250,4 +255,86 @@ nav {
         font-size: 30px;
         font-family: 'Noto Sans JP', sans-serif;
         margin-left: 50px;
+    }
+
+        /* This is the start of my styles for subpage 2.*/
+
+     #content {
+         max-width: 1600px;
+         margin: 0 auto;
+    }
+
+    div.content{
+        max-width: 1600px;
+        margin: 0 auto;
+    }
+
+    .bbcheading {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 40px;
+        text-align: center;
+        color: #d19504;
+        margin-top: -25px;
+    }
+    .bookheart {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        margin-top: -25px;
+        border: 10px solid #e83f6f;
+    }
+    .freedomheading {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        color: #d19504;
+    }
+    .bbc-msg {
+        font-family: 'Mukta', sans-serif;
+        font-size: 20px;
+        color: black;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .readheading {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        color: #d19504;
+    }
+    .read {
+        font-family: 'Mukta', sans-serif;
+        font-size: 20px;
+        color: black;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .reynolds {
+        width: 20%;
+        margin-left: 150px;
+        border: 10px solid #01a7c2;
+    }
+    .bookclub {
+        width: 30%;
+        margin-left: 50px;
+        margin-right: 50px;
+        border: 10px solid #01a7c2;
+    }
+    .huxley {
+        width: 20%;
+        margin-right: 75px;
+        border: 10px solid #01a7c2;
+    }
+    .club-heading {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        color: #d19504;
+    }
+    .club-msg {
+        font-family: 'Mukta', sans-serif;
+        font-size: 20px;
+        color: black;
+        text-align: center;
     }
